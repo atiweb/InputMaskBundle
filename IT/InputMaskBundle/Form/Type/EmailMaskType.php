@@ -58,7 +58,7 @@ class EmailMaskType extends EmailType
     /**
      * @inheritdoc
      */
-    public function getBlockPrefix()
+    public function getBlockPrefix(): string
     {
         return 'it_alias_mask';
     }

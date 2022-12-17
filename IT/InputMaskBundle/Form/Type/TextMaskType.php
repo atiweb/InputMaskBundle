@@ -58,7 +58,7 @@ class TextMaskType extends TextType
     /**
      * @inheritdoc
      */
-    public function getBlockPrefix()
+    public function getBlockPrefix(): string
     {
         return $this->getName();
     }

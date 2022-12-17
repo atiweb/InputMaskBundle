@@ -60,7 +60,7 @@ class DateMaskType extends DateType
     /**
      * @inheritdoc
      */
-    public function getBlockPrefix()
+    public function getBlockPrefix(): string
     {
         return $this->getName();
     }
