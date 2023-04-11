@@ -1,5 +1,5 @@
 {
-  "name": "atiweb/input-mask-bundle",
+  "name": "it/input-mask-bundle",
   "description": "A simple Symfony bundle that implements Form classes for RobinHerbots/Inputmask jQuery plugin ",
   "type": "symfony-bundle",
   "license": "MIT",
